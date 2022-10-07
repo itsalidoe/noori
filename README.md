@@ -1,5 +1,5 @@
 # noori
 
 <p align="center">
-  <img src="noori new.png" alt="Noori logo" width="250"> 
+  <img src="noori new.jpeg" alt="Noori logo" width="250"> 
 </p>
